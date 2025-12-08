@@ -1,4 +1,5 @@
-Nice — let’s do Scenario 1 end-to-end on your PC. You’ll create a tiny FastAPI app, build a deliberately **bad** image, measure it, then make an **optimized** multi-stage image and compare sizes. I’ll give exact PowerShell commands you can copy-paste from `PS>`.
+Nice — let’s do Scenario 1 end-to-end on your PC. You’ll create a tiny FastAPI app, build a deliberately **bad** image, measure it, 
+then make an **optimized** multi-stage image and compare sizes.
 
 Everything fits in one folder `D:\AZURE IS\DEVOPS\docker-all\scenario1`. Run commands from there.
 
